@@ -5,5 +5,5 @@ Ici vous pouvez voir ma page web qui contient une brève description de ma vie e
 ### Contenu de ce site web
 Ce site web contient *deux page*:
 1. Page d'accueil avec mon "CV"
-2. Page avec les informations de contact  
+2. Page avec les informations de contact    
 Voilà le lien direct vers mon [site web personnel](https://pavelbaruzdin.github.io)
